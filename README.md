@@ -63,9 +63,9 @@ pip install pandas numpy scikit-learn nltk matplotlib seaborn
 
 Thanks to these amazing people:
 
-| ![Ankit Kumar](https://github.com/ankitkr0408.png?size=100) | ![Sarthak Gupta](https://github.com/sarthakgupta36.png?size=100) | ![Aditya Birwatkar](https://github.com/aditya18379.png?size=100) |
+| ![Ankit Kumar](https://github.com/ankitkr0408.png?size=100) | ![Sarthak Gupta](https://github.com/sarthakgupta36.png?size=100) | ![Aditya Birwatkar](https://github.com/aditya183749.png?size=100) |
 |:--:|:--:|:--:|
-| [Ankit Kumar](https://github.com/ankitkr0408) | [Sarthak Gupta](https://github.com/sarthakgupta36) | [Aditya Birwatkar](https://github.com/aditya18379) |
+| [Ankit Kumar](https://github.com/ankitkr0408) | [Sarthak Gupta](https://github.com/sarthakgupta36) | [Aditya Birwatkar](https://github.com/aditya183749) |
 
 ## 📞 Contact
 For queries or collaboration, reach out to:
